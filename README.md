@@ -45,7 +45,7 @@
 
 [<img align="left" height="50px" width="150px" alt="Warpnet" src="https://www.udesc.br/arquivos/udesc/id_cpmenu/16030/horizontal___rgb___copia_16794320032066_16030.jpg"/>](https://www.udesc.br/)
 **Computer Science Undergraduate** \
-[**UDESC**](https://www.udesc.br/)  • In progress\
+[**UDESC**](https://www.udesc.br/)  • concluded dec/2024
 Skills: `Agile Methodologies` `Requirements Engineering` `Software Architecture` `Professional Ethics`
 `Project Management` `Software Development` `Software Security` `Software Quality` `Computer Networks`
 `Database Management `
