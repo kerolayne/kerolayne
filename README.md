@@ -36,6 +36,7 @@
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
   [<img height="48px" width="48px" alt="Icone github" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
   [<img height="48px" width="48px" alt="Icone latex" src="https://skillicons.dev/icons?i=latex"/>](https://www.latex-project.org/)
+  [<img height="48px" width="48px" alt="Icone latex" src="https://skillicons.dev/icons?i=powershell"/>]([https://www.latex-project.org/](https://learn.microsoft.com/pt-br/powershell/scripting/lang-spec/chapter-01?view=powershell-7.5)
 
 
 <br>
